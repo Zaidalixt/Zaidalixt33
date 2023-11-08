@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Howell",
+  "age": 32,
+  "address": {
+    "street": "Hudaw Road",
+    "city": "Ogobavi",
+    "state": "DC",
+    "zip": "15802"
+  },
+  "contact": {
+    "phone": "(363) 768-8709",
+    "servicePhone": "800469983"
+  },
+  "birthday": "1985-11-03T16:34:54.368Z",
+  "ip": "159.50.184.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Obicab avesihep hum tifjo ituziboc urbul mu ibeejbon biluko jusocog gufpuaja ne ana ror sojne godja hen. Wouge cadamom woke tiusa zibcic hocmalot leohre veta uwufi kin we ko. Lesurih fozepve we izjawcu da vor navwise imzozen suhug kotwik ujo zijijap tiverij vinonu.",
+    "bio": "Ve bezu jebajiono sirizu ro fohaw ujubiib le galajacuv kucu otujobi cebumoto icocer ifu gi uko. Masol muwkodgu meepfa kag patjane kowel rabnep po vup ki ju ur ke gacegva tawow fole. Nawi ge izirisvas nak rez vep su rusot ev ceztef huz pus nop."
+  },
+  "apiKey": "e0221ee7c2fb2f7af2889ac93ede9fb4e01a418a7a0360bbe16563507f6a68e6",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
