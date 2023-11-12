@@ -1,0 +1,26 @@
+{
+  "name": "Philip Baker",
+  "age": 64,
+  "address": {
+    "street": "Olusiw Boulevard",
+    "city": "Ajwurde",
+    "state": "OK",
+    "zip": "99133"
+  },
+  "contact": {
+    "phone": "(515) 972-6820",
+    "servicePhone": "800278931"
+  },
+  "birthday": "1999-12-13T18:07:40.706Z",
+  "ip": "231.155.161.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Eska hazkefed ucotki welsud suugo oz javiv nid uhipit wefe iwe awiroti. Uv jedrehofe feco cugroc danzize nukefder akaotuko ta nulcafzi fepoc hu loasfo gehuh gacpopi dodbim miknufgir sojsawje. Igiz bigepta opaba buheb vevojap fed vus jigki wij pevsabu ow degu op. Mopes hobbo gafnaci awecoova wowfo afjevoh kazot ficnawi jodel nutef ne oki zad. Gedovgot ne lu luothad dalhidat fakub nias gir pif ge izsepoh ji amlam manlabgod tiltif.",
+    "bio": "Abdu ez adepu kovo kibrajpoj ikbuw lalcez kosrij uwis olumi la zagge jihinore hem fu relo ha rip. Es azujofu vodev uw kigge ep juz huja johove zondigfom neslicam ekedi ubeopci arwe zafu kew. Piwjusgaj ruogzij zatalfok sokav isegu bapci sa imtosoz or dos coiki wop tes zor cupegja ruuze."
+  },
+  "apiKey": "222de5343120a4e30097c114464fce7a8b4400a99789ed2440f2000615d6f4c6",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
