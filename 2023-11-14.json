@@ -1,0 +1,26 @@
+{
+  "name": "Frances Neal",
+  "age": 25,
+  "address": {
+    "street": "Padza Pass",
+    "city": "Wismozuhe",
+    "state": "OH",
+    "zip": "07091"
+  },
+  "contact": {
+    "phone": "(661) 866-6123",
+    "servicePhone": "800983835"
+  },
+  "birthday": "2006-09-24T21:11:55.651Z",
+  "ip": "166.229.134.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojida umsadari geizo vuhsab wul vum donus wotlitken otjuw mud avlug mitaz. Najec ipeilowi begevhu sev kuite vi vighaf bulebe azomi lucuub sajtibso enojo puk witsi jorrenki ug tecadab cegictu. Mu luseket zugezon ru coacu ji jucefsi cuv wizore bo urerowud nimcugo jur wu cisec ten.",
+    "bio": "Rib wehsop ziillo fucegen mor li nuvhevzi ibnotvep acgi nefzohin tobwe etuuselug gefas cidceje behdosmu. Pebfez miuk je butiv ceep come tepzoho tawubuj juc ijto ehidi jiowgu peda fiho cireofu eru memfa cuduw. Weuzime sondiuj ki efi fueceafo enfi eghininu viju goepe vipof ahowal fatca iselaj ijefofe bogephi hi zidka."
+  },
+  "apiKey": "0d2d46e734e62ef1d95b34fdabdeb254676692e7c71eced4d02e26ee921e6c92",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
