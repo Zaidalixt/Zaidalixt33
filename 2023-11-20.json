@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Brady",
+  "age": 35,
+  "address": {
+    "street": "Nizus Trail",
+    "city": "Vecdenak",
+    "state": "AL",
+    "zip": "20067"
+  },
+  "contact": {
+    "phone": "(341) 818-8805",
+    "servicePhone": "800393212"
+  },
+  "birthday": "1989-08-12T11:37:56.870Z",
+  "ip": "102.248.83.111",
+  "foo": "bar",
+  "profile": {
+    "about": "De erihigwa orihufe esuwo giblegip mehzeom dut di ufiwolij imzuf finupho duf. Isre vuro itane hehso gu malteh nac vo iviri za ge kehra. Eci lirjemgo nu pagmu zik tudzedu jisni cectaj lovevbu mufuga fighud keg.",
+    "bio": "Ge bouc furzolel fenokzot pobsug uj fo wo duddaja ibsiohe rorporefe dewsal ij elhef kenof pozbo. Tituga hogcuub piv me zazu zidimmo ro ges efeamekug kuhci uriic uvrov pezuvgo wimbile akoukufil. Vahuse lah rigu ozoumson catata tica azomof zod putno jizso az sira zar erbohbop mad ram gideaga bi. Raizlu idnivduk tiwabnep nuruvne at wec zohnitira rew ediveg unidag gaujaz voknig. Vaci wu riiz bimcal toojsef va gehi vafavje wig kohzamip temeh hi deg. Mo evhu fuclaf vija lecu ceku wukgerzi gaotu bo uzotiva piwraman diipo aluhid ul heor vuk sorotu. Nagwegeh kuhar obocez tutahi cusitioz uk nes bilme besijapo fobagapus iwaufje obgager awucu tijsuzer tursojob vafacrun lanow."
+  },
+  "apiKey": "e7c531372e692a7f054c46a75d1f7cb756287d9273a1c012643924b70e488c78",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
