@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Farmer",
+  "age": 53,
+  "address": {
+    "street": "Hegu Terrace",
+    "city": "Luotoaf",
+    "state": "OK",
+    "zip": "33948"
+  },
+  "contact": {
+    "phone": "(566) 675-3850",
+    "servicePhone": "800851633"
+  },
+  "birthday": "2004-08-28T02:39:14.686Z",
+  "ip": "41.204.134.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Dofi heh masva sizeco lup le cujoh sovof ka fobureiv uzude ruus hehrih voru zivom pagrej muoji sis. Hawligcu wip rakuwoib dum nuplawnuk vimib ba ereciwha bageceb bo haneros vakab. Upifiro wipeci moid ocma kitla hejavi web petgafil ewi niw ewiodu dobodrul colkura in tuguvud.",
+    "bio": "Ha nokla wakdow nuvuto sidi waijo kejiri zul fo ulaikarej ho sabutuev vahsires zibruv nip um. Uhcas antosliz ag cihtofva avi ripuno safu bano ufu emesapcu siw vak da fooja ucho faf. Uz suvjugol fela ebmu dijod tuzada bopefkon ifiugi zuvihnes le tehme larve zenebi."
+  },
+  "apiKey": "64e43f69dafa9e88bbe788a79904d600dd9b2fe274ff3b3ce0f11b4c244bca33",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
