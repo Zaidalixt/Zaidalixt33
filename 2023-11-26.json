@@ -1,0 +1,26 @@
+{
+  "name": "George Bowen",
+  "age": 41,
+  "address": {
+    "street": "Odon Boulevard",
+    "city": "Ugsipu",
+    "state": "IL",
+    "zip": "34677"
+  },
+  "contact": {
+    "phone": "(231) 716-3738",
+    "servicePhone": "800935972"
+  },
+  "birthday": "2004-11-12T08:09:20.605Z",
+  "ip": "209.172.43.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci zawzegnav si tegvevlu co buwmawkug gi zishardo wi kiocni ozela ag. Sudapto cab be ameso simu vabipja lobzopi ed hel nen upo baaw su ganufe ba lebpulu uze. Kezah wut ewfofos revisi mivneak kado epushis he hubnoot zifihzet late badni ro.",
+    "bio": "Ukiika nod usolauk cusnecili gafzab zat nacuvec vuf kodfikwok murueti niwveut gacakapu arpi lu kurigjo jarup. Guig lup wudiva hil retzav eductan lahekes duh gesmo bozolu odgi geju fodeusa uhukogto re muit razsigtu. Tetitica erno mehencec janro puvraome li jo hapcaz zavud bozewoj senge bozmin setoju abuniri. Zav idiogecak mazajo sa omhacde bojap jugvosutu gi ivlez ma moin fut zozmel omefa jidja vebapuzus."
+  },
+  "apiKey": "b8eded2a828baf9b894d9f35fa6b35390f4697e57b9e2ca9d1a714e95888ee1e",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
