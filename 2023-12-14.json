@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Nichols",
+  "age": 50,
+  "address": {
+    "street": "Lozoz Parkway",
+    "city": "Kekmocja",
+    "state": "AR",
+    "zip": "15933"
+  },
+  "contact": {
+    "phone": "(558) 677-7203",
+    "servicePhone": "800744527"
+  },
+  "birthday": "1980-01-31T12:35:49.748Z",
+  "ip": "173.214.60.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Naesim lijuco zo oshojlul et hanbedow hud oka aljoon omsi da ticaso ulivazil. Putlej fi ziflu se nezuv kelazdi uhec vipitiata gamasus viw gejecfe epiguro op odhudta. Zuganu um codo urilo wez wubbag veku orcil ralevib howeb dovup po. Pe reasupuc cu zufwav rec mognobi alawewhad vumow taswaze faudo wesa owfu ciobele hefva bazliprut olzop onepame. La uf jelluhveg onzo herjo ja ni joukosuf paddoz bat muksofwol wun vodo uvagiveh ukomuwtu. Bosres dumcu ladud citoja ci akozeka gazol liscen ipzu puc upniame elod wodutmeg juaje catimu. Pa rag zozuh norilsud lecote otudibof ceatru cicfe egaaderu newbafu gupmeb ewoseup jefalez kaminu tajwokluh kili.",
+    "bio": "Mocemofo caco hef zuvcasa wa olco umowisfac kuc ithulu ufe vigosiha pot kuvu. Ikomiep offihto was iviwohe jijuh kov ninosfo isuiralab cadgo robso ijezo dir gipouko lohub bon. Suz nu won ije ucucutunu kegammo cad togja sujakubo canjawmu nudetfiw buj wezojol umcihipa sa iki gerot cajzemul."
+  },
+  "apiKey": "e1a734b8972b72874125b97435acf59c07308da9d9b6b35004ea25973a641a03",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
