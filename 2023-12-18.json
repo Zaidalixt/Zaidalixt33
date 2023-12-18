@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Vargas",
+  "age": 57,
+  "address": {
+    "street": "Wulase Street",
+    "city": "Wejikavur",
+    "state": "PA",
+    "zip": "55732"
+  },
+  "contact": {
+    "phone": "(286) 621-5927",
+    "servicePhone": "800616693"
+  },
+  "birthday": "2001-09-30T23:07:36.148Z",
+  "ip": "193.207.56.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Sovno ciftuma gagzo zemuk favic hafoeli wuz emton tov wesdop roso ticpedfoc. Sescasdav wa mossitu irupalu emuc wezepe zeec opsopzif hezici jekbe rizub mole iduva vupacu nu teagiri evaezgen. Ugosughad hadzonic ge vuduk ahevu holbak fa eveub fubobel gaconomi ziuc ro zetoktub konceg uj. Dacfo femujece badcecela sohit jicnak ka tijah puwa wos kudziw fekpip mohfa te fenuigi woosu bigpa wa gavivah. Ibugikcob beudjul puokpe pal gaibi pitiz bosel aflaf hak riknufevu wonejvij kuri lergeno jipremut. Papba bi tuope haleiw domnoog efahies giuke citzis kem ofero mocag neferuciz nuhfu il on jemjaeg wiewouci.",
+    "bio": "Ohwisrov odedapa gait dazajeezu rertuz hujabeivo tuko erajir ha ficwecfuk pumepte madugjar kenendef buppeun mopid kag. Resra sicun ruegzu ju solutvod wanle ecuviku unajab ocucezu gilguzod uklabo refesoloj viwbe ridudku edrojop wir cuig. Gezna lasutwin suupuazu li gikahi habo penkemu geani egafuvic tugfibu todoz agagbep."
+  },
+  "apiKey": "2345fa3a5698612791a16256cce1408956ebeaac3d3d05b381e297e5d5629c4a",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
