@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Cannon",
+  "age": 34,
+  "address": {
+    "street": "Iljo River",
+    "city": "Lihtobbap",
+    "state": "OH",
+    "zip": "42934"
+  },
+  "contact": {
+    "phone": "(580) 264-2130",
+    "servicePhone": "800959555"
+  },
+  "birthday": "1981-07-15T18:19:51.555Z",
+  "ip": "239.164.51.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulju jif ha lubzemlub hotfinda ke zisohet odsini rezel nesutuz cujiga seug bo fominil mi ku. Jitcukep maak asutemu ruwjepdo jozaz esuvuhob cirtid guret ib gup gaji kuwas fuh etji. Wumaruafe cu tofawi uprufgon sunitze ebawal mafmif ula imiazulus lu lihilmo bilor. Cup jabedco nuc jin pe dekfaor ho horbawi wasoz badiz ezoredi me sutzour. Zobwiki ilaef wib geluli kiwgem pehmab ugolotnoj caw gij vegsas pumta unedbu od dimovlel loneen zez.",
+    "bio": "Nil ga helalone jook ace luvuc jo inu dolo gu neore zuaco tacadu nusi veruje menjabjog came. Ehouwepiw four muukjuk ahmunew ruw halhuwke hemi favij itukvu lipo zupaat mokzafu huf. Now nejdu elenesir vugacol uhnunwus dig pognav hi pa ho goruzic lematez nac uzo epunawruf."
+  },
+  "apiKey": "4f2402a6f9da109d583d5deba297a51a350cd189326501f2dd7e054216913c73",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
