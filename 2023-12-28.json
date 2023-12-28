@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Davis",
+  "age": 54,
+  "address": {
+    "street": "Naplav Key",
+    "city": "Werevka",
+    "state": "DC",
+    "zip": "81348"
+  },
+  "contact": {
+    "phone": "(863) 371-1537",
+    "servicePhone": "800294511"
+  },
+  "birthday": "1965-04-19T08:15:44.348Z",
+  "ip": "14.149.81.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Apfuj ol gujujbej hamuupa adoajonad juvuela miwto bovuw paizu ecu vum pakucat. Lagso wes owhacime ajo nekez tudus ku iduabeju ad netfohiw jiagse der ji folli pa bisi. Uphepdec ti eh fajtahag wu ecvemiw uf ba lepohit ce fe putalo ocsi cidavab.",
+    "bio": "Odwos foagzep vuzihbo relegifem lizjohko avanofu ahuuwlet ovogit milvigan hor ogaroap popded vavjaged ev muic. Wufdubi aticuh hojizmi ma puve rewuwon mimupop go junjo boc tolvumkek vamur ves malbowe doinuis hahaggo. Upa horcedru rujkeho zunsaluza wobfa eg fikfut gib do fa mofvi sew safhof mijouno mu fahmuf milzef."
+  },
+  "apiKey": "2794ae58905967203fd35f46b45e791ea81ef7bf4294832bdfd3d94597fb9c98",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
