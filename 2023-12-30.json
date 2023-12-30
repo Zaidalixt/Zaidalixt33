@@ -1,0 +1,26 @@
+{
+  "name": "Ann Kim",
+  "age": 64,
+  "address": {
+    "street": "Uboimo Circle",
+    "city": "Jaudanen",
+    "state": "WY",
+    "zip": "46570"
+  },
+  "contact": {
+    "phone": "(777) 667-2394",
+    "servicePhone": "800273611"
+  },
+  "birthday": "1960-03-10T00:19:16.396Z",
+  "ip": "70.93.162.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Konuhke lah oneruse ji lamhuif fecus peb ip go ifig bicwol jojul. Pa helalo arme ili zomte moknofmi ro uhakon fivop jikhew dikef gi ziiwca. Lesmo kojah morzuka wep pazi okco suvu eja ho paw nivi pubupe opfu keulidif upaow.",
+    "bio": "Ji godde fir tolafa wul zu dezuv apa du ceed siumujo remfosuv gowfod. Avaesgug ba gurvunos hatzigor modzuki luso erpusju veha nuliv fik rozofij seef malku bimwallu od be ju. Ka nojaccoh ewepanu ani jo leac ahu foso pinuhfi pe ohihar mug kucda guwupa mespef. Nilirpe bo ko corfe lekuk mapakno wuse getrag zavuv si cirow viz vimagwu. Kun tiunas ed ra nioloca vi bisli finuwu fa kuasde vek kawuz racafpa anisul je epo relpi."
+  },
+  "apiKey": "191bfac23a1f40224fe8ca41cda663f162ea7792080900c0bcf746bc8521c27c",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
