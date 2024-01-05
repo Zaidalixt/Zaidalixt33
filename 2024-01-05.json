@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Norris",
+  "age": 21,
+  "address": {
+    "street": "Kiror Boulevard",
+    "city": "Oscejnaz",
+    "state": "AZ",
+    "zip": "90455"
+  },
+  "contact": {
+    "phone": "(923) 773-3708",
+    "servicePhone": "800135175"
+  },
+  "birthday": "1974-01-12T13:13:44.843Z",
+  "ip": "48.139.2.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Romfef cawa kamkaob zu lescul jouco ip zioro gihec tiihu sahzeti ri tirne uma keje comaflat. Apoga rusikda tuk je ifluwfu newgarru dihbu lifpi keew dopdo mi woc lone lo ze zodtahite dodjuk onpamop. Ci akivo pot tam erocuf saf nuhuwo cit uhaolehe wufumome taghegem po waep ajwa tupujepa mu. Hi owigokha mujgur letil iwawuh sovotit we nehmu ah faczumi ko nipduw ma vacus nojtuod teb wek azuod.",
+    "bio": "Agfekcas negiuf cali fev dabkugdi numumid giswez to zabevug atpucoh ken lif rop humwo udi ido zol uh. Das am ezbigcej monewa lat if avak esmap jet asazi olrovi kiimhuj wibbog. Rifi akfaro zuajde ose ju zurpa terivpi okim zidfes cu muglelo bagwu uhu lisovga zebajin ifunonmar zoszoefo jehamkev. Ti rip jutpib cis lik mi ge vozeje derawic wetanit ameitoci vos. Polapdi cur mupudbih cid cizbut ikokeog sa fufab bamej epu bi ruso de secjow tuwulsiz kuk."
+  },
+  "apiKey": "232e9bdb1b3f43a38f1cd643fb5a31ba6df3db885fa2cf358dc2de0f4c3e0762",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
