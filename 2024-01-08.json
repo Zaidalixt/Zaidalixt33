@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Long",
+  "age": 55,
+  "address": {
+    "street": "Sagu Street",
+    "city": "Rewpenus",
+    "state": "MT",
+    "zip": "03385"
+  },
+  "contact": {
+    "phone": "(812) 298-2254",
+    "servicePhone": "800221493"
+  },
+  "birthday": "1997-12-15T19:35:52.931Z",
+  "ip": "10.121.148.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Micfic hoc ci tolki ir kisisu lavten kezbarak ri zo jegiha oka he usi irowutegi be nov ciuj. Lup wo conjoplok mor kom diduton zugica teler ni bu nup kus irewu uga eg. Mir sa zeducovu murin goawe uvinoru popadjo fagsepko vori souhomo jeked ve dih guapwik.",
+    "bio": "Wof zare gawwer muzfaupu dali oh ibeen nap ket id muz jetsikuja cutaz. Sa we de mu lufan pev wo pocdem ibiibgib cofon om gas zem hijivci nafe tucluec ped. Pel honba jullug gizkelu eco rerecos nuc ipiumoha vopetus abize de awduj wete dafbek. Rasoj tioni tusefupor ap rawkejo rajve vipre kogesi miosofo ifiwipor omgo tavfuz boab kopu ji. Zizimo fe zi susaf tilif kir juhje giok ka za rervoece hu wiul."
+  },
+  "apiKey": "42e0c7b5ac510335e507dcb9c541d4a9fc4c354077fee152aa275168e28aa977",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
