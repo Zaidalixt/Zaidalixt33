@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Simpson",
+  "age": 41,
+  "address": {
+    "street": "Nakfe Lane",
+    "city": "Tarikwi",
+    "state": "KY",
+    "zip": "79906"
+  },
+  "contact": {
+    "phone": "(241) 599-5072",
+    "servicePhone": "800148336"
+  },
+  "birthday": "1990-08-07T06:30:54.756Z",
+  "ip": "208.120.85.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucwacjo kiumu nic jahaohi fevuz boru mec bupekte bafa tifuj kuva nac unnababa. Cag aheziju raprulbuv egkem laljicak vijebtab metkefpit peig goc hepedim zuho tapjilad za fantowde vultukzov vauvo. Ifufa todien haktu memjaz av hirwi tomuj igupaju ac nudej jafmenaje gako cicmotca focilof gilafuj.",
+    "bio": "Ni ripir moino bulserkor nipcal mohhut ivu hiak sasopco po duvig sanhec facub okuha meecog disvib gudmibalu hedi. Huevo dosdu agoviiko bowuce gifrihger amcu geed kivek jutduz uzoji ninu horce lentajilu tozfi ak lu citoel. Karsec sogtu gurav ofitiwpa hafit kihu ewo wezzaclu eriuba wedlu hef fo."
+  },
+  "apiKey": "fc4dcb199a93275a6db03f671cb2e4ac24b812ce31526fa7439be273363c9b56",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
