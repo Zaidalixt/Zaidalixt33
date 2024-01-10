@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Lowe",
+  "age": 19,
+  "address": {
+    "street": "Edaol Street",
+    "city": "Lucawnob",
+    "state": "KS",
+    "zip": "35892"
+  },
+  "contact": {
+    "phone": "(630) 644-8661",
+    "servicePhone": "800461342"
+  },
+  "birthday": "1987-02-06T06:51:15.242Z",
+  "ip": "130.128.103.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Setodon set zovura ifa ra pet uketec wuwhaput cet ditiru eruwecrub uci. Mabos gihju wiwe da bo togob cahumpif nezo bujdowja kepoherum micbomom jehov ducji bo pisdier pimuic gawolfu hamatha. Gimu hu pogoh umme su vog vuzguc mukrakfu tup ficwec cudor we vogow vu.",
+    "bio": "Hezjo favvepiz lu urad cotosej wupni las loznowva atodapip delonazeg cawe picalta. Oleva re kab oblusmeg daggo lewime dum haguag sirel ijepizik afwewot gebo va ezlez jumri idi ivru cero. Cobsus at cu arosuw juzuka urmimu av desharje wipug log kajdub ha neulevel vo bodtum."
+  },
+  "apiKey": "3dcfb1e6b5b27a9a5599599e86d1de99166c6d5af60be173b983370aef0c727f",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
