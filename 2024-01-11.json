@@ -1,0 +1,26 @@
+{
+  "name": "Jon Lowe",
+  "age": 47,
+  "address": {
+    "street": "Wifrop Extension",
+    "city": "Vowobwi",
+    "state": "HI",
+    "zip": "82766"
+  },
+  "contact": {
+    "phone": "(770) 583-5124",
+    "servicePhone": "800459321"
+  },
+  "birthday": "1969-11-21T14:32:23.836Z",
+  "ip": "152.28.185.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Zagedleb lasic lawsi der angujwi gima cosavi li woc moc vize giloze esi fug ufowmar jado de. Saravu it lanezsuj buh ruav hoh galcibjoc igetow evo mazac icietit le zo cidkawip. Vav uwvehec cijawto mo nusot ve gaw jajeh cucu ci ogive les ware tekvumvo ij la.",
+    "bio": "Me sizpec heco neagzos sa ver tu hidgo cifipat sidega rodfuvu hesti zumupus holweg wuja ce ep. Ujos feloz sucbeda du cevup mekme ok savuz difheceso bub kakgifga bi debcokwed vefcepi fa huzejiha of iksac. Veputsa ve hugzohkoz mu jo foheheku uvlos rimbac bupa colocusu wahurfal vin. Ikwev jef ibhiol jalwo jokjis ij adhu inaos po zemu ejgav dokvi huzfe fe nidet vet."
+  },
+  "apiKey": "d2088e54586c5f9d42b94ec68844610afc4e7bbbb867b7112e0cf3b086e0c5ca",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
