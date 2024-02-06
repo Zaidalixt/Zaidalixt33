@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Carlson",
+  "age": 49,
+  "address": {
+    "street": "Tero Center",
+    "city": "Sumbakmaz",
+    "state": "MS",
+    "zip": "29337"
+  },
+  "contact": {
+    "phone": "(421) 584-5563",
+    "servicePhone": "800752565"
+  },
+  "birthday": "1960-05-27T18:06:08.462Z",
+  "ip": "145.83.1.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulafe putvuwe fevil sapnaf fabico pahbialo ica mo asejus zowgor temwimob onafow. Jun zaetiece es ursalbod bitlulhuw ero pigewi be liohi tu mo fetculre. Wedow ijen raf caj ozo vufpid cejeb gidgori ono hain nutosofo sikce. Lovafral nepwazek dowid ugviup hiwemo laip ra owbe tu lem vipe afusuc geubidi. Faeg ciz vopsi nazja ujiuk ipumecze disbazus rowaznic nas temda nibezri menoga hidiw. Bophafrej zaut div tu ki agkeg vove li ah ebe pusidavaz petta fo.",
+    "bio": "Anbezid jacba peferi zunfeves ak depi ejahaoz adomoc taih zeuvaf va puf uvu labir paveca ungaz hilreg. Nucik sa zajpokwo odidahol corisi nirijmo lallijtus zocu ba ka olu ubogodas dopjigin ge diman. Betoema fumcuak hunip ve tilkog hofotir tugana jup uhage viuvci ogmojgo lusmuawo lic pivaace relek elo af. Fek zil jeg gi ve moovciz beklul hozmafi ogrioz tu go ves fo joktu zohu."
+  },
+  "apiKey": "f917869f0f0a5f41cda8d26bd517361a38737e71bac2178db3b72180c4cd51ca",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
