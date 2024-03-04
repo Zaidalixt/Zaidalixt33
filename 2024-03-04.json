@@ -1,0 +1,26 @@
+{
+  "name": "Danny Coleman",
+  "age": 65,
+  "address": {
+    "street": "Sitar Way",
+    "city": "Varara",
+    "state": "NM",
+    "zip": "06135"
+  },
+  "contact": {
+    "phone": "(686) 260-9285",
+    "servicePhone": "800422899"
+  },
+  "birthday": "1991-11-23T02:56:05.003Z",
+  "ip": "116.109.55.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Hapcaccon ure bewtibat cif epalilrak ew ucovac zehucim ce ifeedbe puaba womaj uzi losu megigsel tedac ru. Iheas akpulev wihjehow lawon amom ah feh vojilzog bokigluf kigej fukuzaha ad. Kanteklom opewe esgon utwawle epig famami cubsunos wup uk bol gojoki volnu obrowje hukmu. Fefizit revna zelse kemo ovedohij sosu don li dol loc efodic wussepu sukuv ruapi otrumiko. Ca na tata utocem jac dapvobo sep gi deroklet ub vo nohpaw uk getoafa vugahun rejce. Dif tegkiro boplosi ub wasel va hulfe wutfe ibuna gegazoge emug inasac ko hubo vosivwor denra bucmo. Cerpilomi roj va oppanok bofojni nunecu rac egda uvfijat feg fegruh foslarev ko fu faw neselah holighov.",
+    "bio": "He efijuza miz pe tucipi awjudroh ifho sev miruzlir fifpi musowwu ho cagso. Nuz mip pipitil tonil hi umi oc aczaer ginruj duwraijo siwwirco uzili kuk meh gu soguc hogji oweruga. Azbov codsuobi popmit bosma ile ulda det wo duk ohateja wofuwid zuvho."
+  },
+  "apiKey": "f00aa6c46e6db9617f3ac4068dd62a9dd46c0201b77a75332ea0d507075cff61",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
