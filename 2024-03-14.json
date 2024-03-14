@@ -1,0 +1,26 @@
+{
+  "name": "Carrie May",
+  "age": 22,
+  "address": {
+    "street": "Seho Road",
+    "city": "Papcuzo",
+    "state": "LA",
+    "zip": "25042"
+  },
+  "contact": {
+    "phone": "(504) 719-7854",
+    "servicePhone": "800838781"
+  },
+  "birthday": "1996-11-26T12:25:18.257Z",
+  "ip": "101.192.248.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka regugfo uvu impepgut rir ajsetsej lu araropi del ju kovro levihce lomufi alugiklen varafsa. Adawepin joice iti punaluc dode idzi nogeg lal emafe ki voefulu dagleknak jalihi. Vi tigzi zeudi cuf evokuwet adu uv zol pilojuse tehacsan toem cado gebeg sibpomino turowbad kipwob. Ralgafisu kidbej dil enura fizwezug nir adasiglu conuoh uzludak ibe epo usfo wela ule. De telkuk ra sawi gi digva dulbis jogsukva ramubrar mafesora cev jovzunwa upedibcef rekzovab zurpolu jepne.",
+    "bio": "Bohwu fughup bomaupe af vazjiki dinto gakelja du fu deji jirad porzoci. Nuz fanfeken cos hen azjucer dijuba hof vagra irzu me le vumiweg odud lodi opiri oh. Ganpizoma rehope ve geb gemife ja fa nij tocwiuj el ma ewejek gi fa iz cimo jit vazjis."
+  },
+  "apiKey": "bdb49c9ebafaff482551852141e40cb21d0a5d67273a2c6f027666b29af05e3d",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
