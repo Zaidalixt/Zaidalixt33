@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Griffin",
+  "age": 34,
+  "address": {
+    "street": "Comhar River",
+    "city": "Lotucij",
+    "state": "MA",
+    "zip": "68052"
+  },
+  "contact": {
+    "phone": "(346) 847-6347",
+    "servicePhone": "800281683"
+  },
+  "birthday": "1977-06-16T12:26:26.477Z",
+  "ip": "29.63.11.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Fosunofop hucuhu rijmo obo ug cipe puj tidzed iva gitnapu hukudo keje mesin ro enu ro livagapu poun. Vaujma momif son evof dapim be wuha dodidejuw mim ca sa tobso vejiz mus seso azgisdal. Opesegeb bepra kiz oliecu wudlucde we wo begvi mum uro waarejur jeflozo.",
+    "bio": "Jufko cinag gavo unewa irbuh tepurwem ig rul udu got dutejih gebebe ga vur panogi kablamev. Wiupled pu rucedo vegibek erfilri li feukug her sum bem emo na togva bip gonjum iko. Nidezhuw fasog tacirdu tuwunkas nuzzu didhiteh bapopajo vaisoatu iki puvol akfeb efoubuhuc."
+  },
+  "apiKey": "d183d8ddbc76d58da4eeba206529b8b2b58e73a752ecfb8526681d101af4dd94",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
