@@ -1,0 +1,26 @@
+{
+  "name": "Scott Gonzalez",
+  "age": 29,
+  "address": {
+    "street": "Banu View",
+    "city": "Lorfezo",
+    "state": "MA",
+    "zip": "19114"
+  },
+  "contact": {
+    "phone": "(328) 928-9066",
+    "servicePhone": "800867344"
+  },
+  "birthday": "1960-02-17T06:30:54.557Z",
+  "ip": "234.240.226.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Cola lajik luulizu isi vi navidare ku sa zajo nop zogridal fi nuh cisdez lorev. Hepire tofhab nokirco lekuzoiw sez arwu kekeowi fa nofuh vuj vo henusve muwioni potlu baz pij mi. Duvwitora ja matahbet adguh nez ovekev fafen mawa commeeno ruzni ja ejisad inba zobloabu dolbam derezgub wu.",
+    "bio": "Ivmom uko se de rirkufor mirikafe arocinfus sej to memnunisu nat fepikec pezol usuorle dubu igu kabro fa. Ne geca bidbipcop gelilew uchodes bet ebehiv ogi gakeldif za zuhgedit id gounujuv puj. Hetsuzem hoju meuta bowtu jeje fombagij razputas afa ejodaki toota to gefuc agbor. Pipaze poftuzgo ej zu hi vac situvci cefro loukfig ka fugve etonedwo aso num poswi one kihzukaz."
+  },
+  "apiKey": "e151b8e94a724fee38845374602304770c4b8d7b727ec9524f175f4eb714c59b",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
