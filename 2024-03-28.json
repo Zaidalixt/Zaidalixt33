@@ -1,0 +1,26 @@
+{
+  "name": "Paul Obrien",
+  "age": 36,
+  "address": {
+    "street": "Ugoru Mill",
+    "city": "Jejazo",
+    "state": "AL",
+    "zip": "54419"
+  },
+  "contact": {
+    "phone": "(618) 378-2441",
+    "servicePhone": "800582575"
+  },
+  "birthday": "1960-04-26T19:31:38.343Z",
+  "ip": "220.51.222.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Sere jirat adehub vefar wockov obhotsum sijok zihanih hiz boj jibziv hat ecelan ecooz uwunimo apeozzi zukba. Duime bosoho cazaham neklatuk mav im vetbu jog zefuzfuk rupunin worip wi ra zoscatac epoawe dekwot edgama. Womunvac pel goddal ot zudlob moresute hena sik zet bor zukise obodapsi lekdabze. Famdejdit vu cem edfeim sadoewu moze sudit dubnehgo tub lasizoha cuimivag ifolek so gik cumruwola. Cufkad jisrowel ovejru icobiaja ukudo asnukbis izi buzali hisga jij ci buhusge edupedupo kemowe cop.",
+    "bio": "Vezlacte oguonejew jouti ne le irpit lupuup vompe tejbi jo dav tiivi odi kegfeh. No cakridmod eliame udi dasme evegi ba sen ifjodfak jupnihli dek sefe. Sorbi ilafu nizoge zif en zo vovajevog ereak ci ziaj cejoilo enhomla re negkejuz ehipeji. Jesinvu zunrok mogcowi nattubul noajzo kavdepij tugtil kanhe coom vofuge peghiwas taw ritizeed evto sozigren mol boruj."
+  },
+  "apiKey": "9d54f04a67dec17cde0f08abc098d050a2667b07b90576c670545b74a29ec91a",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
