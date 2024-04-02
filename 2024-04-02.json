@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Munoz",
+  "age": 20,
+  "address": {
+    "street": "Macol Place",
+    "city": "Muzzetip",
+    "state": "PA",
+    "zip": "58030"
+  },
+  "contact": {
+    "phone": "(911) 491-5010",
+    "servicePhone": "800324422"
+  },
+  "birthday": "1984-06-12T02:09:03.446Z",
+  "ip": "63.216.18.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe ezwil guzimub loludi lapo si jiw lig ne taemo kaz wo licpeh padofi helejfuv ko. Te tekfeg fu jasacgeh jib itdi kumum faibuci ga hi bazur jetbi sofu guz hop mib zinilmo ipara. Lufteul mo boevame dadukkiw osdeab nagumeb bo ewuocu dogu to zartuzril sigudiv vusgohodo.",
+    "bio": "Defban lazaj lehjalef udvala par amu ujeudnow juzedtu borsolbi buutiama ko dek jeba iw akok igdanjag. Kigup wehdurnu ip nebuzuki fim fukum udemuso guv tisruela suneod hawidron tazuj ci aso dut ni huznut muev. Cuhitrub levvit cow ifi cegjekvi puzu bulomem bohawbuw dahid rib ne ebuogu bot emomi ofosolvo tawdonih ojowoho. Gi fi ko gelogi zaidkob gololu ofuarago zo ki some bo dum sif ruwoz. Mikak vemusweb lowuto lek bo naulola vugbu jogukumos louka dacabed dumevic anokamfo eh bo wu. Ujcini ogi wehezgiz lohip ike dupmeusu vinlam zuvekal fe licjabwup job ukbita besbav nijerwoj feh ewogedguc. Jah us waj ponhi odougofu je gohfu tuohtu oci sorakud bir ojbu gubteci."
+  },
+  "apiKey": "e50a337bb56f5ada37be75b3a63bb11c480142c4534ab76f95898a371ca3ffc1",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
